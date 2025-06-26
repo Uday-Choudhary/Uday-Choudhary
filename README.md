@@ -34,8 +34,7 @@
 </div>
 
 <div align = "center">
-  ![snake gif](https://github.com/Uday-Choudhary/Uday-Choudhary/blob/output/github-snake.svg)
-
+  ![snake gif](https://github.com/Uday-Choudhary/Uday-Choudhary/blob/output/github-snake-dark.svg)
 </div>
 
 
