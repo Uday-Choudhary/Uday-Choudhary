@@ -6,7 +6,6 @@
 
 <p align="center">
   I am passionate about Backend development, AI, and building scalable web applications. 
-  <br>Currently working on <b>QuickShow</b> and learning advanced Data Structures & Algorithms.
 </p>
 
 <br>
