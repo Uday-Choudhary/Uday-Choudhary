@@ -190,7 +190,7 @@ const uday = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -201,7 +201,7 @@ const uday = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -211,7 +211,7 @@ const uday = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/api/?username=Uday-Choudhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/api/?username=Uday-Choudhary&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=6&rank=-C,-B" alt="GitHub Trophies" />
 
 </div>
 
