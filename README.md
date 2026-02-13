@@ -187,16 +187,8 @@ const uday = {
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
-
-<div style="margin:40px 0;"></div>
-
----
-
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div style="margin:40px 0;"></div>
 
@@ -205,34 +197,7 @@ const uday = {
 <h2 align="center">Live Developer Metrics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Choudhary&theme=tokyonight" width="90%" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
-</p>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/Uday-Choudhary/Uday-Choudhary/blob/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## Holopin Badges
-
-<div align="center">
-
-[![An image of @udaychoudhary's Holopin badges](https://holopin.me/udaychoudhary)](https://holopin.io/@udaychoudhary)
-
-</div>
-
----
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-ChoudharyGi
 
 <div align="center">
 
