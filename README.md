@@ -194,7 +194,6 @@ const uday = {
 
 ---
 
-<h2 align="center">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
