@@ -1,169 +1,273 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40px"/>
-  Hi, I'm Uday Kumar Choudhary
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="40px"/>
-</h1>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kumar Choudhary
 
-<h3 align="center">
-  🚀 Full Stack Developer | Backend Engineer | Problem Solver
-</h3>
+### 🚀 Full Stack Developer | 🎓 Student at Newton School of Technology (ADYPU)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## 🌟 About Me
 
-## 👨‍💻 About Me
+```javascript
+const uday = {
+    location: "India 🇮🇳",
+    education: "B.Tech at Newton School of Technology (ADYPU)",
+    currentFocus: ["Backend Development", "MERN Stack", "Python"],
+    passions: ["Problem Solving", "Building Scalable Apps", "Learning New Tech"],
+    email: "choudharyuday85@gmail.com",
+    funFact: "I debug faster than I type! ⚡"
+};
+```
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-
-- 🎓 B.Tech @ Newton School of Technology (ADYPU)
-- 💡 Passionate about Backend Systems & Scalable Architectures
-- 🧠 Strong in Python, MERN Stack & Data Structures
-- 🌍 Based in India
-- 📫 Reach me at: **choudharyuday85@gmail.com**
-- ⚡ Currently building full-stack & AI-powered applications
-
-<br clear="right"/>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/>
-  <img src="https://skillicons.dev/icons?i=c" width="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-</p>
+* 🌍  Based in India
+* 💼  Open to collaborations on interesting projects
+* 🧠  Currently diving deep into backend architecture and system design
+* 🤝  Looking to contribute to open-source projects
+* ⚡  Fun fact: With great code comes great responsibility!
 
 ---
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
-  <img src="https://skillicons.dev/icons?i=vite" width="55"/>
-</p>
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+
+</div>
+
+### Languages & Frameworks
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+</table>
+
+### Databases & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙ Backend
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65"/>
-  <img src="https://skillicons.dev/icons?i=express" width="55"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
-</p>
+<div align="center">
+
+## 🌐 Connect With Me
+
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60">
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://github.com/Uday-Choudhary" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/Uday-Choudhary" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:choudharyuday85@gmail.com">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" height="60" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="100">
+      <a href="https://leetcode.com/Uday-Choudhary" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" />
+      </a>
+      <br>LeetCode
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 🗄 Databases
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="180"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
 
 ---
 
-### 🧰 Tools & DevOps
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55"/>
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/Uday-Choudhary/Uday-Choudhary/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+## 🏆 GitHub Trophies
 
-# 📊 GitHub Analytics
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Uday-Choudhary&theme=dracula&no-frame=true&no-bg=true&row=1&column=7)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Uday-Choudhary&theme=react&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&theme=react-dark&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-<!-- ======================= SNAKE ======================= -->
+## 🎯 Holopin Badges
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Uday-Choudhary/Uday-Choudhary/blob/output/github-snake-dark.svg" width="100%"/>
-</p>
+[![An image of @udaychoudhary's Holopin badges](https://holopin.me/udaychoudhary)](https://holopin.io/@udaychoudhary)
 
----
-
-<!-- ======================= ACHIEVEMENTS ======================= -->
-
-# 🏆 Achievements
-
-<p align="center">
-  <a href="https://holopin.io/@udaychoudhary">
-    <img src="https://holopin.me/udaychoudhary"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- ======================= SOCIALS ======================= -->
+## 📈 Contribution Graph
 
-# 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Uday-Choudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:choudharyuday85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Uday-Choudhary">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&radius=16&theme=react&area=true&order=5&hide_border=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917" alt="Activity Graph" width="100%"/>
+
+</div>
 
 ---
 
-<!-- ======================= OCTOCATS ======================= -->
+<div align="center">
 
-# 🐙 Custom Octocats
+## 🎭 Profile Mascots
 
-<p align="center">
-  <img src="Fintechtocat.png" width="220"/>
-  <img src="octocat-1770996466932.png" width="220"/>
-</p>
+<img src="/mnt/user-data/uploads/Fintechtocat.png" width="200" alt="Fintech Octocat"/>
+<img src="/mnt/user-data/uploads/octocat-1770996466932.png" width="200" alt="Scholar Octocat"/>
+
+### _"With great power comes great responsibility"_ - Ben Parker
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
+### 💖 Thanks for visiting my profile!
 
-<h3 align="center">
-  💡 "Code is not just syntax — it is system design, clarity, and scalability."
-</h3>
+<img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
-  <img src="https://forthebadge.com/images/badges/open-source.svg"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**✨ Keep coding, keep growing! ✨**
+
+</div>
