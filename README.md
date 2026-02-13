@@ -190,20 +190,13 @@ const uday = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</td>
-<td>
 <img src="https://streak-stats.demolab.com?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6" alt="Top Languages" />
 
-</div>
 
 ---
 
