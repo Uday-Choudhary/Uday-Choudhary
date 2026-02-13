@@ -4,7 +4,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kumar Choudhary
 
-###  Full Stack Developer |  Student at Newton School of Technology (ADYPU)
+### Full Stack Developer | Student at Newton School of Technology (ADYPU)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -12,30 +12,30 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```javascript
 const uday = {
-    location: "India 🇮🇳",
+    location: "India",
     education: "B.Tech at Newton School of Technology (ADYPU)",
     currentFocus: ["Backend Development", "MERN Stack", "Python"],
     passions: ["Problem Solving", "Building Scalable Apps", "Learning New Tech"],
     email: "choudharyuday85@gmail.com",
-    funFact: "I debug faster than I type! ⚡"
+    funFact: "I debug faster than I type!"
 };
 ```
 
-*   Based in India
-*   Open to collaborations on interesting projects
-*   Currently diving deep into backend architecture and system design
-*   Looking to contribute to open-source projects
-*   Fun fact: With great code comes great responsibility!
+* Based in India
+* Open to collaborations on interesting projects
+* Currently diving deep into backend architecture and system design
+* Looking to contribute to open-source projects
+* Fun fact: With great code comes great responsibility!
 
 ---
 
 <div align="center">
 
-##  Tech Stack
+## Tech Stack
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
@@ -149,7 +149,7 @@ const uday = {
 
 <div align="center">
 
-##  Connect With Me
+## Connect With Me
 
 <table align="center">
   <tr>
@@ -184,27 +184,43 @@ const uday = {
 
 ---
 
-##  GitHub Stats
+<h2 align="center">GitHub Analytics</h2>
 
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://streak-stats.demolab.com?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&theme=tokyonight" width="41%" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
 
-
----
-
-
+<div style="margin:40px 0;"></div>
 
 ---
 
-##  Contribution Snake
+<h2 align="center">Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div style="margin:40px 0;"></div>
+
+---
+
+<h2 align="center">Live Developer Metrics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Choudhary&theme=tokyonight" width="90%" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+</p>
+
+---
+
+## Contribution Snake
 
 <div align="center">
   
@@ -214,17 +230,7 @@ const uday = {
 
 ---
 
-##  Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&radius=16&theme=react&area=true&order=5&hide_border=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-##  Holopin Badges
+## Holopin Badges
 
 <div align="center">
 
@@ -236,23 +242,23 @@ const uday = {
 
 <div align="center">
 
-##  Profile Mascots
+## Profile Mascots
 
 <img src="./assets/Fintechtocat.png" width="200" alt="Fintech Octocat"/>
 <img src="./assets/octocat-1770996466932.png" width="200" alt="Scholar Octocat"/>
 
-### _"With great power comes great responsibility"_ - Ben Parker
+### "With great power comes great responsibility" - Ben Parker
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
 ---
 
-###  Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-** Keep coding, keep growing! **
+**Keep coding, keep growing!**
 
 </div>
