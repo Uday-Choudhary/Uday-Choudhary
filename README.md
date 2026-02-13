@@ -160,7 +160,7 @@ const uday = {
       <br>GitHub
     </td>
     <td align="center" width="100">
-      <a href="https://linkedin.com/in/Uday-Choudhary" target="_blank">
+      <a href="https://www.linkedin.com/in/uday-kumar-choudhary/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="65" alt="linkedin logo" />
       </a>
       <br>LinkedIn
@@ -172,7 +172,7 @@ const uday = {
       <br>Email
     </td>
     <td align="center" width="100">
-      <a href="https://leetcode.com/Uday-Choudhary" target="_blank">
+      <a href="https://leetcode.com/u/uday_choudhary_29/" target="_blank">
         <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="65" height="65" alt="leetcode logo" />
       </a>
       <br>LeetCode
