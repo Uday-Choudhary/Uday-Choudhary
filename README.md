@@ -187,22 +187,13 @@ const uday = {
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&theme=tokyonight" width="41%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&border_color=444c56&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&theme=github_dark_dimmed&border_color=444c56&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=github-dark-blue&hide_border=false&border=444c56&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" alt="GitHub Streak" />
 </p>
-
-<div style="margin:40px 0;"></div>
-
----
-
-<h2 align="center">Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div style="margin:40px 0;"></div>
 
@@ -211,11 +202,11 @@ const uday = {
 <h2 align="center">Live Developer Metrics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Choudhary&theme=tokyonight" width="90%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Choudhary&theme=github_dark" width="90%" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Choudhary&theme=github-compact&hide_border=false&border=444c56&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="90%" alt="Activity Graph" />
 </p>
 
 ---
@@ -255,7 +246,7 @@ const uday = {
 
 ### Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
