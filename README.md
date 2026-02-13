@@ -187,7 +187,7 @@ const uday = {
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=algolia&hide&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
 
 <div style="margin:40px 0;"></div>
