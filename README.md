@@ -4,7 +4,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kumar Choudhary
 
-### 🚀 Full Stack Developer | 🎓 Student at Newton School of Technology (ADYPU)
+###  Full Stack Developer |  Student at Newton School of Technology (ADYPU)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 ```javascript
 const uday = {
@@ -25,17 +25,17 @@ const uday = {
 };
 ```
 
-* 🌍  Based in India
-* 💼  Open to collaborations on interesting projects
-* 🧠  Currently diving deep into backend architecture and system design
-* 🤝  Looking to contribute to open-source projects
-* ⚡  Fun fact: With great code comes great responsibility!
+*   Based in India
+*   Open to collaborations on interesting projects
+*   Currently diving deep into backend architecture and system design
+*   Looking to contribute to open-source projects
+*   Fun fact: With great code comes great responsibility!
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
@@ -149,7 +149,7 @@ const uday = {
 
 <div align="center">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <table align="center">
   <tr>
@@ -184,7 +184,7 @@ const uday = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <table>
@@ -207,17 +207,11 @@ const uday = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/api/?username=Uday-Choudhary&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   
@@ -227,7 +221,7 @@ const uday = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -237,7 +231,7 @@ const uday = {
 
 ---
 
-## 🎯 Holopin Badges
+##  Holopin Badges
 
 <div align="center">
 
@@ -249,7 +243,7 @@ const uday = {
 
 <div align="center">
 
-## 🎭 Profile Mascots
+##  Profile Mascots
 
 <img src="./assets/Fintechtocat.png" width="200" alt="Fintech Octocat"/>
 <img src="./assets/octocat-1770996466932.png" width="200" alt="Scholar Octocat"/>
@@ -260,12 +254,12 @@ const uday = {
 
 ---
 
-### 💖 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**✨ Keep coding, keep growing! ✨**
+** Keep coding, keep growing! **
 
 </div>
