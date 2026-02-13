@@ -44,9 +44,9 @@ const uday = {
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"> -->
 
 </div>
 
@@ -77,7 +77,7 @@ const uday = {
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
       <br>HTML5
     </td>
     <td align="center" width="96">
@@ -93,7 +93,7 @@ const uday = {
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
       <br>Express
     </td>
   </tr>
@@ -120,7 +120,7 @@ const uday = {
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
       <br>Git
     </td>
   </tr>
@@ -154,34 +154,31 @@ const uday = {
 
 ## 🌐 Connect With Me
 
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60">
+
 
 <table align="center">
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/Uday-Choudhary" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
       </a>
       <br>GitHub
     </td>
     <td align="center" width="100">
       <a href="https://linkedin.com/in/Uday-Choudhary" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" />
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  margin="5"/>
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="100">
       <a href="mailto:choudharyuday85@gmail.com">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  /> 
       </a>
       <br>Email
     </td>
     <td align="center" width="100">
       <a href="https://leetcode.com/Uday-Choudhary" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="55" height="40" alt="leetcode logo"  />
       </a>
       <br>LeetCode
     </td>
