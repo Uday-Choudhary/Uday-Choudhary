@@ -52,45 +52,45 @@ const uday = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="55" height="55" />
       <br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="65" height="65" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="55" height="55" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="65" height="65" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="55" height="55" />
       <br>Express
     </td>
   </tr>
@@ -101,45 +101,45 @@ const uday = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="65" height="65" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" height="55" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" height="55" />
       <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+      <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
       <br>Prisma
     </td>
   </tr>
@@ -155,25 +155,25 @@ const uday = {
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/Uday-Choudhary" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" height="55" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="100">
       <a href="https://www.linkedin.com/in/uday-kumar-choudhary/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="65" alt="linkedin logo" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="55" alt="linkedin logo" />
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="100">
       <a href="mailto:choudharyuday85@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="65" alt="gmail logo" /> 
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo" /> 
       </a>
       <br>Email
     </td>
     <td align="center" width="100">
       <a href="https://leetcode.com/u/uday_choudhary_29/" target="_blank">
-        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="65" height="65" alt="leetcode logo" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="55" height="55" alt="leetcode logo" />
       </a>
       <br>LeetCode
     </td>
@@ -190,10 +190,10 @@ const uday = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Uday-Choudhary&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Uday-Choudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -201,7 +201,7 @@ const uday = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -211,7 +211,7 @@ const uday = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/api/?username=Uday-Choudhary&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=6&rank=-C,-B" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/api/?username=Uday-Choudhary&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
