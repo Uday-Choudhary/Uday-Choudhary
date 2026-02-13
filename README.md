@@ -187,11 +187,6 @@ const uday = {
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Choudhary&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&border_color=444c56&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Choudhary&layout=compact&theme=github_dark_dimmed&border_color=444c56&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uday-Choudhary&theme=github-dark-blue&hide_border=false&border=444c56&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%" alt="GitHub Streak" />
 </p>
 
