@@ -1,7 +1,6 @@
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV6NG1kbHE4d3c5amJtYTgxZThjYXg5eDBteWFnZnM2aTN5ZXpnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif width="400>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uday Kumar Choudhary
 
