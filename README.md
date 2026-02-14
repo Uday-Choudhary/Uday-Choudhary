@@ -73,6 +73,12 @@ const uday = {
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br>Figma</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
+    <td align="center" width="96"><img src="./assets/numpy-auto.svg" width="48" height="48" /><br>Numpy</td>
+    <td align="center" width="96"><img src="./assets/pandas-auto.svg" width="48" height="48" /><br>Pandas</td>
+    <td align="center" width="96"><img src="./assets/scikit-learn.svg" width="48" height="48" /><br>Scikit-learn</td>
+
+
+
   </tr>
 </table>
 
