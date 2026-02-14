@@ -154,18 +154,17 @@ const uday = {
 
 [![An image of @udaychoudhary's Holopin badges](https://holopin.me/udaychoudhary)](https://holopin.io/@udaychoudhary)
 
-</div>
+ </div> 
 
----
 
 <div align="center">
 
-## Profile Mascots
+<!--## Profile Mascots
 
 <img src="./assets/Fintechtocat.png" width="200" alt="Fintech Octocat"/>
-<img src="./assets/octocat-1770996466932.png" width="200" alt="Scholar Octocat"/>
+<img src="./assets/octocat-1770996466932.png" width="200" alt="Scholar Octocat"/>-->
 
-### "With great power comes great responsibility" - Ben Parker
+### "Stay hungry, stay foolish." - Steve Jobs
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
