@@ -2,9 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="200"/>
 
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Uday Kumar Choudhary
+# Hi, I'm Uday Kumar Choudhary
 
-### Full Stack Developer | B.Tech @ Newton School of Technology (ADYPU)
+### AI & ML Engineer — Full-Stack Developer — Data Science
+### B.Tech in Artificial Intelligence & Machine Learning | Newton School of Technology (ADYPU) | CGPA: 8.67
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -15,35 +16,38 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="58%">
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const uday = {
-  location: "India 🇮🇳",
-  education: "B.Tech @ Newton School of Technology (ADYPU)",
-  currentFocus: ["Backend Development", "MERN Stack", "Python"],
-  passions: ["Problem Solving", "Scalable Apps", "New Tech"],
-  email: "choudharyuday85@gmail.com",
-  funFact: "I debug faster than I type! 🐛"
+  location: "Pune, Maharashtra, India",
+  degree: "B.Tech in AI & ML — Newton School of Technology (ADYPU)",
+  cgpa: "8.67 / 10.0",
+  focus: ["ML Pipelines", "Agentic AI", "Full-Stack Development"],
+  currentlyBuilding: ["RAG systems", "LangGraph workflows", "MERN apps"],
+  openSource: "Merged PRs into Deno — production-level bug fixes",
+  certifications: ["Generative AI for Everyone", "AI For Everyone"],
+  email: "uday.choudhary@adypu.edu.in"
 };
 ```
 
-- 📍 Based in **India**
-- 🔭 Diving deep into **backend architecture & system design**
-- 🤝 Open to collaborations on **interesting projects**
-- 🌱 Looking to contribute to **open-source**
-- ⚡ *"With great code comes great responsibility!"*
+- AI Engineering student with hands-on experience in **Machine Learning**, **Full-Stack Development**, and **autonomous AI systems**
+- Built end-to-end ML pipelines, **RAG architectures**, and **agentic workflows** using LangChain, LangGraph, and scikit-learn
+- Developed production-grade **MERN applications** with Stripe payment integration and background job processing
+- Merged pull requests into **Deno** repositories, fixing bugs in production-level code
+- Selected to **mentor 15 junior students** on full-stack development and ML fundamentals
+- Reached finals in **inter-college debate competitions** via the Orators Club
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="260"/>
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <table align="center">
   <tr>
@@ -60,7 +64,7 @@ const uday = {
       <br/>LinkedIn
     </td>
     <td align="center" width="80">
-      <a href="mailto:choudharyuday85@gmail.com">
+      <a href="mailto:uday.choudhary@adypu.edu.in">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail"/>
       </a>
       <br/>Email
@@ -85,11 +89,11 @@ const uday = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧑‍💻 Languages & Frameworks
+### Languages & Frameworks
 <table>
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br>Python</td>
@@ -103,7 +107,18 @@ const uday = {
   </tr>
 </table>
 
-### 🗄️ Databases & Backend
+### AI / ML
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./assets/scikit-learn.svg" width="48" height="48"/><br>Scikit-learn</td>
+    <td align="center" width="96"><img src="./assets/pandas-auto.svg" width="48" height="48"/><br>Pandas</td>
+    <td align="center" width="96"><img src="./assets/numpy-auto.svg" width="48" height="48"/><br>NumPy</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48"/><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48"/><br>Streamlit</td>
+  </tr>
+</table>
+
+### Databases & Backend
 <table>
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br>MySQL</td>
@@ -115,7 +130,7 @@ const uday = {
   </tr>
 </table>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
@@ -127,20 +142,11 @@ const uday = {
   </tr>
 </table>
 
-### 📊 Data & ML
-<table>
-  <tr>
-    <td align="center" width="96"><img src="./assets/numpy-auto.svg" width="48" height="48"/><br>NumPy</td>
-    <td align="center" width="96"><img src="./assets/pandas-auto.svg" width="48" height="48"/><br>Pandas</td>
-    <td align="center" width="96"><img src="./assets/scikit-learn.svg" width="48" height="48"/><br>Scikit-learn</td>
-  </tr>
-</table>
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -154,7 +160,7 @@ const uday = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -164,7 +170,7 @@ const uday = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -174,7 +180,7 @@ const uday = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -184,7 +190,7 @@ const uday = {
 
 ---
 
-## 🎖️ Holopin Badges
+## Holopin Badges
 
 <div align="center">
 
@@ -202,6 +208,6 @@ const uday = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Uday-Choudhary&label=Profile%20Views&color=58a6ff&style=flat)
 
-### Thanks for visiting! 🙌
+### Thanks for visiting!
 
 </div>
