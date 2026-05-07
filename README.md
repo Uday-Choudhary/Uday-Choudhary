@@ -5,7 +5,7 @@
 # Hi, I'm Uday Kumar Choudhary
 
 ### AI & ML Engineer — Full-Stack Developer — Data Science
-### B.Tech in Artificial Intelligence & Machine Learning | Newton School of Technology (ADYPU) | CGPA: 8.67
+### B.Tech in Artificial Intelligence & Machine Learning | Newton School of Technology (ADYPU) (2028)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -27,19 +27,11 @@ const uday = {
   cgpa: "8.67 / 10.0",
   focus: ["ML Pipelines", "Agentic AI", "Full-Stack Development"],
   currentlyBuilding: ["RAG systems", "LangGraph workflows", "MERN apps"],
-  openSource: "Merged PRs into Deno — production-level bug fixes",
-  certifications: ["Generative AI for Everyone", "AI For Everyone"],
-  email: "uday.choudhary@adypu.edu.in"
 };
 ```
 
 - AI Engineering student with hands-on experience in **Machine Learning**, **Full-Stack Development**, and **autonomous AI systems**
 - Built end-to-end ML pipelines, **RAG architectures**, and **agentic workflows** using LangChain, LangGraph, and scikit-learn
-- Developed production-grade **MERN applications** with Stripe payment integration and background job processing
-- Merged pull requests into **Deno** repositories, fixing bugs in production-level code
-- Selected to **mentor 15 junior students** on full-stack development and ML fundamentals
-- Reached finals in **inter-college debate competitions** via the Orators Club
-
 </td>
 <td valign="top" width="42%" align="center">
 
